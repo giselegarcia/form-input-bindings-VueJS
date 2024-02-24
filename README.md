@@ -1,0 +1,1 @@
+Praticando interligações entre formulários, nesse esse exemplo fiz um form utilizando a diretiva v-model do VueJS para praticar o uso da interligação de mão dupla -> two-way data binding onde conseguimos além de envia os dados do form para propriedadem enviar os dados da propriedade para o form.
